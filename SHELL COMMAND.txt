@@ -1,0 +1,24 @@
+root
+adminHW
+
+su
+shell
+ls
+cd /mnt/jffs2
+ls
+chmod a+rw hw_boardinfo
+vi hw_boardinfo
+
+Press letter i to edit the values
+
+CHANGE 1 TO 2 - this value is for EPON
+CHANGE TO COMMON - this value is for common firmware
+
+
+Press ESC key on your keyboard to quit edit mode
+
+type- :wq
+
+exit
+quit
+quit
