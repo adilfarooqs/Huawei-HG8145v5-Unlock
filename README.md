@@ -20,7 +20,7 @@ Check these values on the device's web interface before starting.
 
 ## Requirements
 
-- `2Config-DEFAULT.xml`
+- `Configuration-Default.xml`
 - `R022.bin` (shell file)
 - `Huawei-Downgrade-Tools.exe`
 - `HG8145V5-R020-212.bin` (HG series firmware)
