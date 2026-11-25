@@ -22,11 +22,6 @@ Check these values on the device's web interface before starting.
 
 - `Configuration-Default.xml`
 - `R022.bin` (shell file)
-- `Huawei-Downgrade-Tools.exe`
-- `HG8145V5-R020-212.bin` (HG series firmware)
-- `EG8145V5-R021-210.bin` (EG series firmware)
-- `Huawei-PON-Tools-HG8145V5.exe`
-- `RollBackCommand.bat`
 - Panda Flasher (optional, if no Software Upgrade menu)
 
 ## Instructions
